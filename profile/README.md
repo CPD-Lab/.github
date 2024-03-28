@@ -1,6 +1,7 @@
 ## Cognitive & Perceptual Development Lab
 <H2>Washington University, School of Medicine<BR>
-Department of Psychiatry
+Department of Psychiatry<BR>
+PI: John Pruett, M.D., Ph.D.
 </H2>
 Contact: Tomoyuki Nishino tnishino@wustl.edu
 
