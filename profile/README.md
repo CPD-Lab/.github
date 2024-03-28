@@ -1,4 +1,8 @@
-## Hi there 👋
+## Cognitive & Perceptual Development Lab
+<H2>Washington University, School of Medicine<BR>
+Department of Psychiatry
+</H2>
+Contact: Tomoyuki Nishino tnishino@wustl.edu
 
 <!--
 
@@ -11,4 +15,3 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Testing CPD readme
